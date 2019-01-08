@@ -10,8 +10,8 @@ path('blog', include('blog.urls'))
 
 # go to app>models.py
 '''
-# this models file like your entire database in your Django system
-# because we doing all database query part in here.but it's not with
+# This models file like your entire database in your Django system
+# because we are doing all database query part in here.but it's not with
 # normal query language but with python classes
 
 
@@ -81,7 +81,7 @@ $ python3.6 manage.py migrate
 # part 9
 # admin
 '''
-frist check the setting, is there have 'admin'app in the INSTALLED_APPS. if not the add.
+first check the setting, is there have 'admin'app in the INSTALLED_APPS. if not the add.
 
 # before you log the admin page you need to create superuser throught terminal 
 $ python3.6 manage.py createsuperuser
