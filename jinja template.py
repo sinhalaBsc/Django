@@ -1,14 +1,14 @@
 #**p3 jinja Templating
 
 '''
-jinja is a templating framework built with python
+jinja is a templating framework built with python.
 we are using template to make some dynamic stuff on the server.
 jinja template can render html source which is downloading to user.
 '''
 
 # brief steps to make new app (to more refer the intro.py)
 '''
-1.make a app
+1.make a app (using terminal)
 2.add that app on setting.py
 3.link that app  on urls.py
 4.app> make urls.py
