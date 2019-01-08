@@ -6,10 +6,9 @@ https://getbootstrap.com/
 and hit download and extrac
 
 app>>
-    make new diractory name 'static' (special name)
-    and move to bootstrap files (css+js+font)
-and check at bottom of 'setting.py' file is there already
-linked to all static files.if there not link as following code    
+    make new diractory name 'static' (special name) and move to bootstrap files (css+js+font).
+    And check at bottom of 'setting.py' file is there already linked to all static files.
+    Set if there not link as following code.    
 '''
 STATIC_URL = '/static/'
 
