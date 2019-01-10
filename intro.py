@@ -1,4 +1,4 @@
-#**p1
+#** p1
 # to install 'Django' using pip to your python version
  $ sudo python3.6 -m pip install Django
 
